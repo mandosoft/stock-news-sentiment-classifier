@@ -36,4 +36,4 @@ def writeToCSV(cnter, filename):
         writer.writerows(cnter)
         
 # e.g.
-writeToCSV(wordCountHash("fb.csv"),"fboutput5.csv")
+# writeToCSV(wordCountHash("fb.csv"),"fboutput.csv")
