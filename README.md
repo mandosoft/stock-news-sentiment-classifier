@@ -11,9 +11,9 @@ Wall Street Journal articles are mined using [News API](https://newsapi.org) whi
 ```bash
 curl https://newsapi.org/v2/everything -G \
     -d q=Facebook \
-	-d sources=the-wall-street-journal \
+    -d sources=the-wall-street-journal \
     -d from=2019-05-29 \
-	-d to=2019-06-27 \
+    -d to=2019-06-27 \
     -d sortBy=popularity \
     -d apiKey=8f8daf483b3741aba5a24a99b1ac0f2b >output.json
 ```
