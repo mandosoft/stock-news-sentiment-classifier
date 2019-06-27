@@ -2,6 +2,12 @@
 
 A Naiive Bayes Classifier tool for UBS hackers to find correlations between stock prices and news headlines
 
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+
 ## How it Works 
 
 Facebook news headline data was scraped by a few lines in R:
