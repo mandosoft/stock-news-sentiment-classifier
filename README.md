@@ -6,7 +6,7 @@ A Naiive Bayes Classifier tool for UBS hackers to find correlations between stoc
 <img src="wordcloud.png"
      alt="Facebook Wordcloud"
      style="float: left; margin-right: 10px;
-     width="200"; height="40"" />
+     width="200" height="40"" />
 
 
 ## How it Works 
