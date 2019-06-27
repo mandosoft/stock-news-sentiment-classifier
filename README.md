@@ -1,4 +1,4 @@
-#  BayesWave Indicator Deep Learning Classification Vector Machine
+#  BayesWave Indicator Deep Learning Classification Swiss Vector Machine
 
 A Naiive Bayes Classifier tool for UBS hackers to find correlations between stock prices and news headlines
 
