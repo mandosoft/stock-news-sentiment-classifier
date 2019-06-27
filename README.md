@@ -4,7 +4,19 @@ A Naiive Bayes Classifier tool for UBS hackers to find correlations between stoc
 
 ## How it Works 
 
-Wall Street Journal articles are mined using [News API](https://newsapi.org) which returns JSON files.
+News headline data was scraped by a custom web scrapin tool with R:
+
+```r
+
+url <-  'https://www.wsj.com/search/term.html?KEYWORDS=facebook'
+        
+webpage <- read_html(url)
+homepage_data <- html_nodes(webpage, '.summary-container p , .headline-container .headline a')
+data <- html_text(homepage_data)
+
+write.csv(data, "facebook.csv", row.names=F)      
+
+```
 
 ## Generate an API Key and run commands from terminal
 
