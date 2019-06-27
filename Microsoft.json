@@ -1,0 +1,175 @@
+﻿{
+  "status": "ok",
+  "totalResults": 13,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Agam Shah",
+      "title": "Honeywell Brings Blockchain to Used Aircraft Parts Market",
+      "description": "The company is using blockchain to shake up the market for used aircraft components, making it easier to check the certification and origin of a part and speeding up transactions.",
+      "url": "https://www.wsj.com/articles/honeywell-brings-blockchain-to-used-aircraft-parts-market-11559072819",
+      "urlToImage": "https://images.wsj.net/im-77536/social",
+      "publishedAt": "2019-05-31T07:48:41Z",
+      "content": "Honeywell\r\nInternational Inc. is using blockchain to shake up the market for used aircraft components, making it easier to check the certification and origin of a part and speeding up transactions.The companys Honeywell Aerospace unit earlier this year introd… [+4020 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dan Gallagher",
+      "title": "GOOGLE Dominance No Longer Sure Thing...",
+      "description": "GOOGLE Dominance No Longer Sure Thing... (Top headline, 2nd story, link ) Related stories: WIRE: Big Tech Should Be Afraid. Very Afraid... Advertise here",
+      "url": "https://www.wsj.com/articles/googles-dominance-is-no-longer-a-sure-thing-11559427954",
+      "urlToImage": "https://images.wsj.net/im-78844/social",
+      "publishedAt": "2019-06-02T06:07:36Z",
+      "content": "In irony that surely wont register in Washington, the latest crackdown on Google comes just as the internet giant is demonstratingon its ownthat it is far from invincible.The Justice Department is preparing a new antitrust investigation against Google parent\r… [+2978 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Suzanne Vranica",
+      "title": "Advertisers Wary of Big-Tech Breakup...",
+      "description": "Advertisers Wary of Big-Tech Breakup... (Second column, 18th story, link ) Related stories: Political-News Sites Forge Ad Group to Compete With FACEBOOKGOOGLE... Advertise here",
+      "url": "https://www.wsj.com/articles/advertisers-are-wary-of-breaking-up-google-and-facebook-11561057954",
+      "urlToImage": "https://images.wsj.net/im-83755/social",
+      "publishedAt": "2019-06-21T00:52:39Z",
+      "content": "CANNES, FranceAdvertisers have griped about the power Google and\r\nFacebook Inc.\r\n FB 1.09%\r\nwield over the digital ad market. But they are generally wary of breaking up the tech giants, judging by the views of the attendees at the annual advertising festival … [+5470 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sarah E. Needleman",
+      "title": "The Man Behind 'FORTNITE'...",
+      "description": "At age 20, Tim Sweeney founded Epic Games in his parents’ basement. His company now owns one of the most popular videogames on Earth. But he doesn’t want the credit.",
+      "url": "https://www.wsj.com/articles/the-man-behind-fortnite-11560571201",
+      "urlToImage": "https://images.wsj.net/im-82202/social",
+      "publishedAt": "2019-06-15T13:10:39Z",
+      "content": "By age 30, Epic Games Inc. founder and CEO Tim Sweeney had a couple of successful videogames under his belt and was starting to make real money. I had a Ferrari and a Lamborghini in the parking lot of my apartment, he recalled. People who hadnt met me thought… [+10776 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Agam Shah",
+      "title": "Engine Behind ‘Fortnite’ Is Harnessed to Power Business Technology - Wall Street Journal",
+      "description": "Engine Behind ‘Fortnite’ Is Harnessed to Power Business Technology Wall Street Journal Companies are harnessing the software behind hit videogame “Fortnite” to do everything from designing cars to discovering drugs, tapping into its realistic...",
+      "url": "https://www.wsj.com/articles/engine-behind-fortnite-is-harnessed-to-power-business-technology-11560418201",
+      "urlToImage": "https://images.wsj.net/im-81549/social",
+      "publishedAt": "2019-06-13T09:30:00Z",
+      "content": "Companies are harnessing the software behind hit videogame Fortnite to do everything from designing cars to discovering drugs, tapping into its realistic imaging and its ability to manipulate 3-D designs. Epic Games Inc. licenses its Unreal Engine, which powe… [+3930 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Agam Shah",
+      "title": "Consortium of Tech Firms Sets AI Benchmarks - Wall Street Journal",
+      "description": "Consortium of Tech Firms Sets AI Benchmarks Wall Street Journal A consortium of tech companies, including Facebook and Google, has released a set of benchmarks for evaluating the performance of artificial-intelligence tools,...",
+      "url": "https://www.wsj.com/articles/consortium-of-tech-firms-sets-ai-benchmarks-11561490769",
+      "urlToImage": "https://images.wsj.net/im-84851/social",
+      "publishedAt": "2019-06-25T19:26:00Z",
+      "content": "A consortium of tech companies, including\r\nFacebook Inc.\r\nand\r\nAlphabet Inc.s\r\nGoogle, has released a set of benchmarks for evaluating the performance of artificial-intelligence tools, aiming to help businesses navigate the fast-growing field. The benchmarksw… [+3837 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sara Castellanos",
+      "title": "CIOs Crack Open the ‘Black Box’ of Tech Productivity - Wall Street Journal",
+      "description": "CIOs Crack Open the ‘Black Box’ of Tech Productivity Wall Street Journal Chief information officers are using tools to get a bird's-eye view of their organizations' productivity in an effort to cut costs, generate revenue and improve...",
+      "url": "https://www.wsj.com/articles/cios-crack-open-the-black-box-of-tech-productivity-11559593742",
+      "urlToImage": "https://images.wsj.net/im-79143/social",
+      "publishedAt": "2019-06-03T20:29:00Z",
+      "content": "Chief information officers are using tools to get a birds-eye view of their organizations productivity in an effort to cut costs, generate revenue and improve efficiency.Instead of relying on meetings with teams or spending months tracking down how employees … [+4305 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Angus Loten",
+      "title": "With Slack’s Buzzy IPO, Email Takes Another Hit - Wall Street Journal",
+      "description": "Slack Technologies Inc.’s highflying trading debut reflects the rapid growth of cloud-enabled workplace collaboration tools, which are driving a shift from individual to group productivity, according to chief information officers, tech-firm executives and ana…",
+      "url": "https://www.wsj.com/articles/with-slacks-buzzy-ipo-email-takes-another-hit-11561070391",
+      "urlToImage": "https://images.wsj.net/im-83845/social",
+      "publishedAt": "2019-06-20T22:39:00Z",
+      "content": "Slack Technologies Inc.shighflying trading debut Thursday reflects the rapid growth of cloud-enabled workplace collaboration tools, which are driving a shift from individual to group productivity, according to chief information officers, tech-firm executives … [+4619 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Stu Woo",
+      "title": "Huawei postpones new laptop launch as U.S. ban starts to weigh",
+      "description": "The moves marks Huawei’s first tangible setback caused by the U.S. Commerce Department’s move to ban American companies from selling supplies to the Chinese company",
+      "url": "https://www.wsj.com/articles/huawei-cancels-launch-of-new-laptop-as-u-s-restrictions-sting-11560320526?mod=hp_lead_pos2",
+      "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-GZ784_huawei_ZG_20181206020921.jpg",
+      "publishedAt": "2019-06-12T07:40:04Z",
+      "content": "HONG KONGChinas Huawei Technologies Co. canceled the launch of a new laptop and paused production at its personal-computer business due to restrictions on buying U.S. components, according to a person familiar with the matter.\r\nThe moves marks Huaweis first t… [+593 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sarah E. Needleman",
+      "title": "Microsoft to Test New Videogame-Streaming Service",
+      "description": "The tech giant said on Sunday it will begin publicly testing its new videogame-streaming initiative in October, just ahead of when Google’s competing service is slated to launch.",
+      "url": "https://www.wsj.com/articles/microsoft-to-test-new-videogame-streaming-service-11560130929",
+      "urlToImage": "https://images.wsj.net/im-80732/social",
+      "publishedAt": "2019-06-10T01:47:21Z",
+      "content": "LOS ANGELESMicrosoft Corp. said on Sunday it will begin publicly testing its new videogame-streaming initiative in October, just ahead of when Googles competing service is slated to launch.\r\nAt a press event Sunday before the game industrys annual E3 expo her… [+132 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ryan Tracy",
+      "title": "Google’s Enemies Gear Up to Make Antitrust Case",
+      "description": "As U.S. officials prepare an antitrust probe of Google and possibly other Silicon Valley giants, a loose-knit crew of its rivals is gearing up to help.",
+      "url": "https://www.wsj.com/articles/googles-enemies-gear-up-to-make-antitrust-case-11561368601",
+      "urlToImage": "https://images.wsj.net/im-84395/social",
+      "publishedAt": "2019-06-24T10:00:44Z",
+      "content": "As U.S. officials prepare an antitrust probe of\r\nAlphabet Inc.s\r\n GOOG 0.94%\r\nGoogle and possibly other Silicon Valley giants, a loose-knit crew of its rivals is gearing up to help.In industries from news to travel to online shopping, competitors of Google ar… [+5845 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nour Malas",
+      "title": "Google Makes Housing Commitment Valued at $1 Billion",
+      "description": "Google said it would commit $1 billion to boost housing construction in the San Francisco Bay Area, the latest in a series of commitments by tech companies to address an affordability crisis in the region.",
+      "url": "https://www.wsj.com/articles/google-makes-housing-commitment-valued-at-1-billion-11560886992",
+      "urlToImage": "https://images.wsj.net/im-82994/social",
+      "publishedAt": "2019-06-18T19:55:10Z",
+      "content": "Alphabet Inc.s\r\n GOOG 1.02%\r\nGoogle said it would commit $1 billion to boost housing construction in the San Francisco Bay Area, the latest in a series of commitments by tech companies to address an affordability crisis in the region.Google Chief Executive Su… [+4057 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dan Strumpf",
+      "title": "Huawei’s Booming Smartphone Business Is Dealt a Blow by U.S. Ban",
+      "description": "The recent U.S. move to blacklist Huawei Technologies threatens to cut off its access to crucial phone components and software for devices used by millions of people world-wide.",
+      "url": "https://www.wsj.com/articles/huaweis-booming-smartphone-business-is-dealt-a-blow-by-u-s-ban-11560418203",
+      "urlToImage": "https://images.wsj.net/im-81636/social",
+      "publishedAt": "2019-06-13T10:00:44Z",
+      "content": "The recent U.S. move to blacklist Huawei Technologies Co. mainly targets the Chinese giants market-leading telecommunications-equipment business. But Huawei is also one of the worlds biggest smartphone makers, and the U.S. export ban now threatens to cut off … [+6136 chars]"
+    }
+  ]
+}
