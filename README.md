@@ -20,7 +20,15 @@ write.csv(data, "facebook.csv", row.names=F)
 
 ```
 
-## A Python model using the NLTK library parsed the raw data and returned a JSON object 
+## Using the NLTK Library
+
+A python model parsed the raw csv data headlines and returned a JSON object with classification vectors based on a pre-trained model in nltk 
+
+```bash 
+pip install nltk 
+```
+
+Model calculates polarity score:
 
 ```python 
 for line in wordCountHashSet(headlineCSV):
@@ -33,22 +41,10 @@ with open('data.json', 'w') as outfile:
     json.dump(results, outfile, indent=4)
 ```
 
-### This Returns a Parsable JSON file 
+The returned JSON Object with metrics:
 
-```json
-"source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Alexandra Bruell",
-      "title": "In Sunny Cannes, Marketers Fret Over Dark Content Online...",
-      "description": "In Sunny Cannes, Marketers Fret Over Dark Content Online... 
-      "url": "https://www.wsj.com/
-      "urlToImage": "https://images.wsj.net/im-83771/social",
-      "publishedAt": "2019-06-21T11:34:38Z",
-      "content": "The Cannes Lions ad festival is a sunny fixture for many in marketing..."
-    },
-```
+
+
 
 
 ## Contributing
