@@ -20,16 +20,17 @@ write.csv(data, "facebook.csv", row.names=F)
 
 ```
 
-## A Python model parsed the raw data and returned 
+## A Python model using the NLTK library parsed the raw data and returned a JSON object 
 
 ```python 
-curl https://newsapi.org/v2/everything -G \
-    -d q=Facebook \
-    -d sources=the-wall-street-journal \
-    -d from=2019-05-29 \
-    -d to=2019-06-27 \
-    -d sortBy=popularity \
-    -d apiKey=8f8daf483b3741aba5a24a99b1ac0f2b >output.json
+for line in wordCountHashSet(headlineCSV):
+     pol_score = sia.polarity_scores(line)
+     pol_score['headline'] = line
+     results.append(pol_score)
+
+# writes to json
+with open('data.json', 'w') as outfile:  
+    json.dump(results, outfile, indent=4)
 ```
 
 ### This Returns a Parsable JSON file 
