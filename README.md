@@ -4,23 +4,25 @@ A Naiive Bayes Classifier tool for UBS hackers to find correlations between stoc
 
 ## How it Works 
 
-News headline data was scraped by a custom web scrapin tool with R:
+Facebook news headline data was scraped by a few lines in R:
 
 ```r
+
+require(rvest)
 
 url <-  'https://www.wsj.com/search/term.html?KEYWORDS=facebook'
         
 webpage <- read_html(url)
-homepage_data <- html_nodes(webpage, '.summary-container p , .headline-container .headline a')
-data <- html_text(homepage_data)
+        homepage_data <- html_nodes(webpage, '.summary-container p , .headline-container .headline a')
+                data <- html_text(homepage_data)
 
 write.csv(data, "facebook.csv", row.names=F)      
 
 ```
 
-## Generate an API Key and run commands from terminal
+## A Python model parsed the raw data and returned 
 
-```bash
+```python 
 curl https://newsapi.org/v2/everything -G \
     -d q=Facebook \
     -d sources=the-wall-street-journal \
