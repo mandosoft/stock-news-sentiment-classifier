@@ -4,7 +4,21 @@ A Naiive Bayes Classifier tool for UBS hackers to find correlations between stoc
 
 ## How it Works 
 
-Wall Street Journal articles are mined using [News API](https://newsapi.org) which returns JSON files: 
+Wall Street Journal articles are mined using [News API](https://newsapi.org) which returns JSON files.
+
+#Generate an API Key and run commands from terminal
+
+```bash
+curl https://newsapi.org/v2/everything -G \
+    -d q=Facebook \
+	-d sources=the-wall-street-journal \
+    -d from=2019-05-29 \
+	-d to=2019-06-27 \
+    -d sortBy=popularity \
+    -d apiKey=8f8daf483b3741aba5a24a99b1ac0f2b >output.json
+```
+
+#This Returns a Parsable JSON file 
 
 ```json
 "source": {
