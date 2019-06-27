@@ -47,7 +47,7 @@ The returned JSON Object with metrics:
 ```json
  {
     "neg": 0.0,
-    "neu": 1.0,
+    "neu": 1.0,  <- sentiment ranking
     "pos": 0.0,
     "compound": 0.0,
     "headline": "A senior Facebook executive, Nick Clegg, took a veiled shot at Apple, 
