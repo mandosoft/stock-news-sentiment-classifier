@@ -6,7 +6,7 @@ A Naiive Bayes Classifier tool for UBS hackers to find correlations between stoc
 
 Wall Street Journal articles are mined using [News API](https://newsapi.org) which returns JSON files.
 
-#Generate an API Key and run commands from terminal
+## Generate an API Key and run commands from terminal
 
 ```bash
 curl https://newsapi.org/v2/everything -G \
@@ -18,7 +18,7 @@ curl https://newsapi.org/v2/everything -G \
     -d apiKey=8f8daf483b3741aba5a24a99b1ac0f2b >output.json
 ```
 
-#This Returns a Parsable JSON file 
+### This Returns a Parsable JSON file 
 
 ```json
 "source": {
