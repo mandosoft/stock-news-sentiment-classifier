@@ -44,7 +44,18 @@ with open('data.json', 'w') as outfile:
 
 The returned JSON Object with metrics:
 
+```json
+ {
+    "neg": 0.0,
+    "neu": 1.0,
+    "pos": 0.0,
+    "compound": 0.0,
+    "headline": "A senior Facebook executive, Nick Clegg, took a veiled shot at Apple, 
+                 continuing the sniping between the tech giants as their business models 
+                 are under increasing scrutiny from global regulators."
+  }
 
+```
 
 
 
