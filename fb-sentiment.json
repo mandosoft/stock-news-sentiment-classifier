@@ -1,0 +1,1360 @@
+[
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "A senior Facebook executive, Nick Clegg, took a veiled shot at Apple, continuing the sniping between the tech giants as their business models are under increasing scrutiny from global regulators."
+    },
+    {
+        "neg": 0.117,
+        "neu": 0.766,
+        "pos": 0.117,
+        "compound": 0.0,
+        "headline": "Consumer data increasingly is shaping the creative process at ad agencies. Some worry that the trend will lead to less originality."
+    },
+    {
+        "neg": 0.212,
+        "neu": 0.606,
+        "pos": 0.182,
+        "compound": -0.1027,
+        "headline": "Real Time Economics: Factory Weakness Keeps Central Banks in Play"
+    },
+    {
+        "neg": 0.119,
+        "neu": 0.881,
+        "pos": 0.0,
+        "compound": -0.3182,
+        "headline": "After a 5-footer named Chomp and two others get loose in city, law enforcement declares \u2018this needs to stop\u2019"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.791,
+        "pos": 0.209,
+        "compound": 0.5423,
+        "headline": "Companies with shares expected to trade actively in Tuesday\u2019s session include Facebook, Tyson, MoneyGram, Parsons, Mosaic, Corteva, and EQT."
+    },
+    {
+        "neg": 0.132,
+        "neu": 0.792,
+        "pos": 0.076,
+        "compound": -0.2263,
+        "headline": "Federal Reserve Chairman Jerome Powell discussed the possibility of a rate cut, trade uncertainty, signs of slowing global economic growth and the central bank\u2019s inflation target at his postmeeting press conference."
+    },
+    {
+        "neg": 0.219,
+        "neu": 0.781,
+        "pos": 0.0,
+        "compound": -0.1027,
+        "headline": "Hard to Read Facebook\u2019s Libra Fortune"
+    },
+    {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.25,
+        "headline": "Czechs Gather to Protest Autocratic Drift in Central Europe"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.921,
+        "pos": 0.079,
+        "compound": 0.1406,
+        "headline": "Potential increased competition in the payments space wasn\u2019t enough to end PayPal Holdings\u2019s rally, but a management shake-up might be."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Venture Backers of Libra Look Beyond Its Facebook Ties"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Slack\u2019s Early Investors Set for Big Payday"
+    },
+    {
+        "neg": 0.211,
+        "neu": 0.743,
+        "pos": 0.046,
+        "compound": -0.743,
+        "headline": "Talk-show host Alex Jones sent child pornography to the legal team representing family members of victims killed at Sandy Hook Elementary School in a defamation case against him."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Consortium of Tech Firms Sets AI Benchmarks"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.738,
+        "pos": 0.262,
+        "compound": 0.4939,
+        "headline": "WSJ Wealth Adviser Briefing: Options Traders, Facebook Cryptocurrency, Fancy Restaurants"
+    },
+    {
+        "neg": 0.052,
+        "neu": 0.919,
+        "pos": 0.029,
+        "compound": -0.2263,
+        "headline": "Czechs held their largest protest since the fall of communism, as hundreds of thousands gathered Sunday in Prague to try to prevent the country from joining what organizers see as the increasingly autocratic direction of the region."
+    },
+    {
+        "neg": 0.25,
+        "neu": 0.75,
+        "pos": 0.0,
+        "compound": -0.4588,
+        "headline": "Real Time Economics: Fed Forced to Weigh Mixed Economic Signals"
+    },
+    {
+        "neg": 0.067,
+        "neu": 0.933,
+        "pos": 0.0,
+        "compound": -0.3182,
+        "headline": "In the past 12 months, the Russell 2000 index of small-cap stocks has lost 8.5%, compared with the S&P 500, whose 7.2% rise has been driven by Facebook, Netflix and other technology stocks."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.798,
+        "pos": 0.202,
+        "compound": 0.5859,
+        "headline": "Fed Meeting Takeaways; Trump on Fed Decision: \u2018You Can\u2019t Win \u2018Em All\u2019; Bullard Explains Dissenting Vote"
+    },
+    {
+        "neg": 0.219,
+        "neu": 0.781,
+        "pos": 0.0,
+        "compound": -0.1027,
+        "headline": "Media CEOs Reigned in 2018 Pay"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.804,
+        "pos": 0.196,
+        "compound": 0.5956,
+        "headline": "The Olympic Games remain advertising gold\u2014so much so that exclusive sponsorship deals are becoming much costlier for the world\u2019s most powerful companies."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4404,
+        "headline": "VC Daily: Slack Goes Public; VCs Get a Taste for Wellness Drinks"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Harry Potter Augmented-Reality Game Is Off to a Slow Start"
+    },
+    {
+        "neg": 0.148,
+        "neu": 0.79,
+        "pos": 0.062,
+        "compound": -0.3612,
+        "headline": "At work, top executives are asked to walk the knife edge between calculated risk and recklessness. No wonder so many fly planes in their spare time."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Advertisers have griped about the power Google and Facebook wield over the digital ad market. But they are generally wary of breaking up the tech giants."
+    },
+    {
+        "neg": 0.071,
+        "neu": 0.812,
+        "pos": 0.118,
+        "compound": 0.2023,
+        "headline": "Mark Zuckerberg, chief executive and co-founder of Facebook, endorsed federal privacy legislation and greater regulation of political advertising, even as he cast governments as too slow to address many of the internet\u2019s thorniest problems."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Bitcoin Is Back Above $10,000 and Investors Say This Rally Is Different"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.914,
+        "pos": 0.086,
+        "compound": 0.4404,
+        "headline": "The social network began to learn how Washington will check its push into digital currencies, with leaders of the Federal Reserve and an influential Senate committee saying they will scrutinize its rollout."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "CBS is preparing to make an offer for sister media company Viacom in the coming weeks, following a meeting of CBS directors last week in which a potential deal was discussed."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Reddit Puts Limits on Pro-Trump Discussion Group"
+    },
+    {
+        "neg": 0.134,
+        "neu": 0.61,
+        "pos": 0.256,
+        "compound": 0.4588,
+        "headline": "Lower courts are still taking a cramped approach to claims of artistic freedom."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.906,
+        "pos": 0.094,
+        "compound": 0.4215,
+        "headline": "Bitcoin\u2019s backers are adamant that Facebook\u2019s coming digital currency, Libra, won\u2019t spell the demise of other cryptocurrencies. To the contrary, many believe the launch of Libra spells opportunity."
+    },
+    {
+        "neg": 0.191,
+        "neu": 0.809,
+        "pos": 0.0,
+        "compound": -0.3818,
+        "headline": "Big Advertisers and Social Media Form Alliance to Fight \u2018Unsafe\u2019 Content Online"
+    },
+    {
+        "neg": 0.152,
+        "neu": 0.848,
+        "pos": 0.0,
+        "compound": -0.3612,
+        "headline": "Traders had a busy day Friday, as it marked a quarterly collision that they call \u201cquad witching.\u201d"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Slack Technologies Inc.\u2019s soaring market debut on Thursday was the latest example of investors\u2019 unquenchable appetite for tech companies building modern digital services for other businesses."
+    },
+    {
+        "neg": 0.06,
+        "neu": 0.873,
+        "pos": 0.067,
+        "compound": 0.0516,
+        "headline": "Facebook has big plans to remake the financial system with its cryptocurrency-based payments network. But persuading people to adopt a brand-new technology could be tough."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.755,
+        "pos": 0.245,
+        "compound": 0.3818,
+        "headline": "Startup Button Rides Mobile Commerce Growth to New Financing"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Slack, which begins trading today, is one of Thursday\u2019s stocks to watch, along with Oracle, American Outdoor Brands, and Mondelez International."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Carnival\u2019s Foul Forecast Isn\u2019t Clearing Up"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Europe Lifts Russia\u2019s Suspension From Human-Rights Body"
+    },
+    {
+        "neg": 0.189,
+        "neu": 0.811,
+        "pos": 0.0,
+        "compound": -0.2732,
+        "headline": "Cryptocurrency Startups Are in Limbo as Regulators Grapple With Risks"
+    },
+    {
+        "neg": 0.101,
+        "neu": 0.741,
+        "pos": 0.158,
+        "compound": 0.0772,
+        "headline": "Google said it would commit $1 billion to boost housing construction in the San Francisco Bay Area, the latest in a series of commitments by tech companies to address an affordability crisis in the region."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Trump Says \u2019We Should Have Draghi Instead\u2019; BOJ Policy Pinches Banks; Libra Vs. the Dollar and Banks"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Internet Providers Look to Cash In on Your Web Habits"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "The global standard setter for anti-money-laundering laws called on countries to apply more scrutiny to virtual currency firms that transfer customer funds."
+    },
+    {
+        "neg": 0.177,
+        "neu": 0.781,
+        "pos": 0.042,
+        "compound": -0.775,
+        "headline": "Speaking at the Aspen Ideas Festival, Facebook\u2019s Mark Zuckerberg described the company\u2019s efforts to stop election interference, but said the U.S. government\u2019s failure to apply pressure to Russia following 2016 election sent a signal to the world that \u201cwe\u2019re open for business.\u201d Photo: Getty"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Social media giant Facebook is in talks to lease 1 million square feet of office space in a skyscraper under construction in Manhattan\u2019s newest neighborhood on the far West Side."
+    },
+    {
+        "neg": 0.071,
+        "neu": 0.833,
+        "pos": 0.096,
+        "compound": 0.2023,
+        "headline": "Chief information officers this week are keeping a close eye on federal hearings concerning misinformation and malicious activity in social media\u2014fearing a broader regulatory clampdown on the use of artificial intelligence."
+    },
+    {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.0516,
+        "headline": "Facebook\u2019s Zuckerberg Backs Privacy Legislation"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.714,
+        "pos": 0.286,
+        "compound": 0.4215,
+        "headline": "Stocks Mixed as Investors Wait for Trade Progress"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "BOE\u2019s Carney Says Libra Needs Scrutiny"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.741,
+        "pos": 0.259,
+        "compound": 0.4215,
+        "headline": "In Sunny Cannes, Marketers Fret Over Dark Content Online"
+    },
+    {
+        "neg": 0.113,
+        "neu": 0.887,
+        "pos": 0.0,
+        "compound": -0.4939,
+        "headline": "Private-equity firm Cerberus hunts for yield in Mongolia; Morgan Stanley launches six new impact-investing portfolios, and private equity firms are raising bigger funds with disappointing results."
+    },
+    {
+        "neg": 0.101,
+        "neu": 0.698,
+        "pos": 0.202,
+        "compound": 0.3818,
+        "headline": "Good day. Many venture capitalists are quick to criticize big technology companies for hampering the ability of their startups to grow."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.932,
+        "pos": 0.068,
+        "compound": 0.34,
+        "headline": "Bitcoin has been breaching key levels lately, continuing its forceful rally of the past couple of months. The gains could prompt more clients to ask financial advisors about the digital currency again, Barron\u2019s writes."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.805,
+        "pos": 0.195,
+        "compound": 0.4404,
+        "headline": "For Two Men With Autism, 1,000 Miles Apart, Gaming Was a Portal to Friendship"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.778,
+        "pos": 0.222,
+        "compound": 0.2484,
+        "headline": "Olympic Games Are Getting More Competitive for Advertisers"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.522,
+        "pos": 0.478,
+        "compound": 0.6705,
+        "headline": "Google Makes Housing Commitment Valued at $1 Billion"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Tech, Media & Telecom Roundup: Market Talk"
+    },
+    {
+        "neg": 0.121,
+        "neu": 0.782,
+        "pos": 0.097,
+        "compound": -0.25,
+        "headline": "With the S&P 500 reaching a fresh high again last week the obvious worry is that investors are getting overenthusiastic. But glance at the stocks that are leading the market and there are no obvious signs of exuberance."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Libra Needs Scrutiny, BOE\u2019s Carney Says"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook in Talks for Offices at Hudson Yards"
+    },
+    {
+        "neg": 0.094,
+        "neu": 0.906,
+        "pos": 0.0,
+        "compound": -0.4588,
+        "headline": "The constitutional court ruled against former General Prabowo Subianto\u2019s bid to overturn his election defeat, confirming President Joko Widodo\u2019s victory for a second five-year term in the world\u2019s largest Muslim-majority nation."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Alex Jones Sent Lawyers for Sandy Hook Families Child Pornography, Flings Say"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4404,
+        "headline": "Millions of Business Listings on Google Maps Are Fake\u2014and Google Profits"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.34,
+        "headline": "Cash-flush direct-to-consumer businesses are boosting marketing budgets and buying spots in many venues."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.4588,
+        "headline": "Options traders are bullish on the stock market rally; Facebook's Libra cryptocurrency could give banks and the dollar some welcome competition, and fancy restaurants offer fancy babysitting choices."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "PayPal\u2019s Stock Drops After Management Move"
+    },
+    {
+        "neg": 0.112,
+        "neu": 0.775,
+        "pos": 0.113,
+        "compound": 0.0258,
+        "headline": "Good day. The case for a rate cut appears to have strengthened in recent weeks, but whether Federal Reserve officials make that move at their policy meeting this week or in the months ahead remains uncertain. Meanwhile, San Francisco Fed researchers argue that banks should receive credit for climate-adaptation investments under the Community Reinvestment Act. And European Central Bank chief Mario Draghi indicated that the ECB could cut rates or expand its bond-buying program as early as next month."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Enterprise-Technology Companies Trigger Investor Zeal"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Advertisers Are Wary of Breaking Up Google and Facebook"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.773,
+        "pos": 0.227,
+        "compound": 0.611,
+        "headline": "Facebook\u2019s cryptocurrency unveiling was widely anticipated, but bets on Libra catching on and generating meaningful revenue remain highly speculative."
+    },
+    {
+        "neg": 0.345,
+        "neu": 0.55,
+        "pos": 0.105,
+        "compound": -0.5859,
+        "headline": "Students debate regulating social media\u2014scrub hate speech, make moderation neutral, or leave well enough alone?"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Industry headwinds hit cruise line stocks Thursday, but could rock Carnival this year."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook just disclosed the first details of its long-anticipated cryptocurrency, called Libra. Here are some takeaways."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Sheryl Sandberg: \u2018We Understand\u2019 Concerns About Big Tech Companies"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.909,
+        "pos": 0.091,
+        "compound": 0.4019,
+        "headline": "A consortium of tech companies, including Facebook and Google, has released a set of benchmarks for evaluating the performance of artificial-intelligence tools, aiming to help businesses navigate the fast-growing field."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.4404,
+        "headline": "Good day. Small is beautiful\u2014at least, that\u2019s what this year\u2019s IPO market is suggesting."
+    },
+    {
+        "neg": 0.168,
+        "neu": 0.584,
+        "pos": 0.248,
+        "compound": 0.2732,
+        "headline": "VC Daily: Small IPOs Winning; Shoe Frenzy; Rebundling the Bank"
+    },
+    {
+        "neg": 0.142,
+        "neu": 0.858,
+        "pos": 0.0,
+        "compound": -0.5106,
+        "headline": "Facebook Chief Operating Officer Sheryl Sandberg said the company failed to anticipate foreign interference aimed at disrupting the 2016 U.S. election."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.789,
+        "pos": 0.211,
+        "compound": 0.7096,
+        "headline": "Bitcoin rose over $10,000 for the first time in over a year, riding a new wave of optimism about the value and future of digital currencies."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.784,
+        "pos": 0.216,
+        "compound": 0.6705,
+        "headline": "YouTube executives are debating moving all children\u2019s content into the stand-alone YouTube Kids app, to better protect young viewers from objectionable videos."
+    },
+    {
+        "neg": 0.272,
+        "neu": 0.728,
+        "pos": 0.0,
+        "compound": -0.7964,
+        "headline": "Reddit quarantined a pro-Trump user group on its platform after it said members threatened violence against both law-enforcement officers and public officials."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.729,
+        "pos": 0.271,
+        "compound": 0.4939,
+        "headline": "The pioneers of digital cash were guided by philosophical and social commitments on authority, sovereignty and value."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Libra Coin? What You Need to Know About Facebook\u2019s Answer to Bitcoin"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.775,
+        "pos": 0.225,
+        "compound": 0.4939,
+        "headline": "WSJ Wealth Adviser Briefing: Yield in Mongolia, Impact Investing, Private Equity Funds"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.638,
+        "pos": 0.362,
+        "compound": 0.5267,
+        "headline": "Ad Creators Get Inspiration From Big Data"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.645,
+        "pos": 0.355,
+        "compound": 0.6705,
+        "headline": "I helped write Section 230. It remains vital to a free and open internet."
+    },
+    {
+        "neg": 0.024,
+        "neu": 0.894,
+        "pos": 0.082,
+        "compound": 0.6369,
+        "headline": "Good day. The Federal Reserve kept interest rates steady, but indicated a cut could be coming soon. \u201cIt\u2019s really trade developments and concerns about global growth that are on our minds,\u201d Chairman Jerome Powell said after the Fed meeting, which saw the first dissenting vote on rate policy since 2017. Elsewhere, the Bank of Japan kept rates unchanged. In contrast with the Fed and the European Central Bank, it didn\u2019t say anything new about potential easing moves. Policy makers in Norway, meanwhile, bucked the trend more drastically with a rate hike. And the central banks of Brazil, Indonesia and the Philippines held rates steady"
+    },
+    {
+        "neg": 0.039,
+        "neu": 0.84,
+        "pos": 0.122,
+        "compound": 0.7579,
+        "headline": "Good day. When any new startup announces its presence to the world, it can choose to talk about anything it likes\u2014its technology, its team, its growth metrics. But there\u2019s one thing that every AI or robotics startup seems to mention, whether it\u2019s in a press release, blog post or the CEO\u2019s talking points: This company doesn\u2019t eliminate human jobs, it just helps people do their jobs better. That\u2019s because of the bad PR they know would result if they said the opposite."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "YouTube Weighs Major Changes to Kids\u2019 Content Amid FTC Probe"
+    },
+    {
+        "neg": 0.145,
+        "neu": 0.64,
+        "pos": 0.215,
+        "compound": 0.296,
+        "headline": "The Fed\u2019s Rate-Cut Debate; San Francisco Fed Paper: Reward Banks Fighting Climate Change"
+    },
+    {
+        "neg": 0.093,
+        "neu": 0.765,
+        "pos": 0.142,
+        "compound": 0.1779,
+        "headline": "Facebook\u2019s new digital currency has the potential to become a true alternative to national currencies by creating a de facto central bank, which other fin-tech startups and cryptocurrencies have failed to do."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Stocks to Watch: Slack, Oracle, American Outdoor Brands, Mondelez International, Apple, Darden Restaurants, Carnival, Kroger, Boeing, Facebook"
+    },
+    {
+        "neg": 0.333,
+        "neu": 0.667,
+        "pos": 0.0,
+        "compound": -0.3612,
+        "headline": "How \u2018Stealth\u2019 Consolidation Is Undermining Competition"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "How 13 Became the Internet\u2019s Age of Adulthood"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Clegg Fires Back at Apple\u2019s Cook"
+    },
+    {
+        "neg": 0.302,
+        "neu": 0.698,
+        "pos": 0.0,
+        "compound": -0.5994,
+        "headline": "Morsi\u2019s Death in Egypt Puts Muslim Brotherhood Back in Focus"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Dozens of startups looking to make the leap from unregulated cryptocurrency dealer to licensed brokerage are waiting for a decision from regulators."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "White House to Hold Social Media Summit"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.707,
+        "pos": 0.293,
+        "compound": 0.4404,
+        "headline": "Venture Firms Take to Startups Selling Wellness Drinks"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Bitcoin Blasts Higher -- Barrons.com"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.698,
+        "pos": 0.302,
+        "compound": 0.3818,
+        "headline": "Anti-Money-Laundering Watchdog Calls for Stronger Cryptocurrency Regulations"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "CIOs See End of \u2018AI Gone Wild\u2019 in Congressional Hearings"
+    },
+    {
+        "neg": 0.354,
+        "neu": 0.542,
+        "pos": 0.105,
+        "compound": -0.7845,
+        "headline": "The country's only freely elected leader died after suffering a heart attack while attending a court session in an espionage trial."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.5106,
+        "headline": "Bitcoin Tops $9,000 as Crypto Rally Trounces Stocks, Bonds, Gold and Oil"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "An Open Letter to Patriotic Billionaires"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.847,
+        "pos": 0.153,
+        "compound": 0.4019,
+        "headline": "Companies are capitalizing on consumer preferences for healthy alternatives to alcohol, sugar, caffeine and prescription medication."
+    },
+    {
+        "neg": 0.221,
+        "neu": 0.779,
+        "pos": 0.0,
+        "compound": -0.8885,
+        "headline": "Big tech and big mergers get the headlines, but the real monopoly problem lies elsewhere, writes Greg Ip. In many industries, competition has fallen and corporate concentration risen through acquisitions often too small to draw the scrutiny of antitrust watchdogs."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Internet-service providers are deciding whether to use data about their customers\u2019 web habits to sell ads. AT&T mines surfing habits as part of a broader advertising operation."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.885,
+        "pos": 0.115,
+        "compound": 0.296,
+        "headline": "U.S. stocks fell Tuesday, as investors weighed commentary from Federal Reserve officials and shares of technology companies slumped."
+    },
+    {
+        "neg": 0.286,
+        "neu": 0.714,
+        "pos": 0.0,
+        "compound": -0.3412,
+        "headline": "Facebook\u2019s Pricey Ad Spend May Not Impress"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.898,
+        "pos": 0.102,
+        "compound": 0.34,
+        "headline": "Google Maps is filled with false business addresses created by firms pretending to be nearby. Some are fibbing to get your business. Others are posted by predators seeing what they can take."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Opinion: Billionaires Should Just Write the Government a Check"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Raise our taxes, they plead. So why not start writing checks today?"
+    },
+    {
+        "neg": 0.104,
+        "neu": 0.677,
+        "pos": 0.219,
+        "compound": 0.4404,
+        "headline": "Investors are betting that Facebook\u2019s efforts to create a blockchain-based payments system won\u2019t threaten credit-card companies\u2019 winning streak\u2014at least for now."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Transcript: Fed Chairman Jerome Powell\u2019s Postmeeting Press Conference"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.89,
+        "pos": 0.11,
+        "compound": 0.3818,
+        "headline": "Slack\u2019s highflying trading debut reflects the rapid growth of cloud-enabled workplace collaboration tools, which are driving a shift from individual to group productivity."
+    },
+    {
+        "neg": 0.258,
+        "neu": 0.742,
+        "pos": 0.0,
+        "compound": -0.9153,
+        "headline": "Brazil\u2019s chief police officer looking into the collapse of Vale\u2019s dam in January said he was investigating whether detonations carried out by the mining company that day could have triggered the disaster, which killed about 270 people."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.2732,
+        "headline": "In a report on Facebook\u2019s efforts to create an independent content oversight board, the social-media giant said there has been little consensus of how it should govern speech or how it should be held accountable."
+    },
+    {
+        "neg": 0.067,
+        "neu": 0.848,
+        "pos": 0.085,
+        "compound": 0.1531,
+        "headline": "The new mobile game \u201cHarry Potter: Wizards Unite\u201d is off to a lackluster start, signaling another missed opportunity to drive mainstream adoption of augmented reality, the much-hyped technology the app showcases."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.741,
+        "pos": 0.259,
+        "compound": 0.4215,
+        "headline": "The Ad Industry Has High Hopes for Direct-to-Consumer Businesses"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "The latest Market Talks covering Technology, Media and Telecom"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.88,
+        "pos": 0.12,
+        "compound": 0.128,
+        "headline": "\u2018We Don\u2019t Need Alligators in Pittsburgh\u2019: Spate of Reptile Escapes Confounds Police"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "The latest Market Talks covering Technology, Media and Telecom. Published exclusively on Dow Jones Newswires throughout the day."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.494,
+        "pos": 0.506,
+        "compound": 0.6249,
+        "headline": "How Masterpiece Cakeshop Fell Short"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Effort to Build an Internal Court for Content Is Far From Simple"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.82,
+        "pos": 0.18,
+        "compound": 0.6808,
+        "headline": "Online gaming startup Tiny Speck never made it big, but it still turned out to be a winning bet for its venture-capital backers."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.838,
+        "pos": 0.162,
+        "compound": 0.4019,
+        "headline": "Bipartisan support for regulation of Google and Facebook grows after strict California rules are passed."
+    },
+    {
+        "neg": 0.375,
+        "neu": 0.625,
+        "pos": 0.0,
+        "compound": -0.4939,
+        "headline": "Mark Zuckerberg Says Facebook Alone Can\u2019t Stop Election Interference"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.674,
+        "pos": 0.326,
+        "compound": 0.4404,
+        "headline": "Bigger Is Better in U.S. Stock Market"
+    },
+    {
+        "neg": 0.086,
+        "neu": 0.914,
+        "pos": 0.0,
+        "compound": -0.4767,
+        "headline": "The White House will hold a social media summit on July 11, aiming to have a \u201crobust conversation\u201d about online platforms such as Google and Facebook at a time when they are under increasing attack in Washington."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "With Slack\u2019s Buzzy IPO, Email Takes Another Hit"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.957,
+        "pos": 0.043,
+        "compound": 0.128,
+        "headline": "Facebook\u2019s Libra project should be carefully vetted by regulators, Bank of England Governor Mark Carney is due to say, offering an early insight into how the U.K. central bank will approach the new cryptocurrency."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.841,
+        "pos": 0.159,
+        "compound": 0.765,
+        "headline": "Nineteen uberwealthy Americans signed a letter sent to 'candidates for President' on June 24, 2019, encouraging a wealth tax. Signatories include the investor George Soros, Mickey Mouse heiress Abigail Disney, and Facebook co-founder Chris Hughes. Image: Getty/Reuters/Composite: Brad Howard"
+    },
+    {
+        "neg": 0.223,
+        "neu": 0.777,
+        "pos": 0.0,
+        "compound": -0.3182,
+        "headline": "AI Can\u2019t Scrub All Online Misinformation, Tech Executives Say"
+    },
+    {
+        "neg": 0.34,
+        "neu": 0.66,
+        "pos": 0.0,
+        "compound": -0.5574,
+        "headline": "Egypt\u2019s Ousted Islamist President Mohammed Morsi Has Died"
+    },
+    {
+        "neg": 0.089,
+        "neu": 0.767,
+        "pos": 0.143,
+        "compound": 0.7506,
+        "headline": "Good day. Federal Reserve Chairman Jerome Powell sounded like he was ready to cut rates at his press conference Wednesday, according to an analysis by WSJ\u2019s Nick Timiraos. President Trump, who has been calling for rate cuts, responded to the Fed\u2019s decision to hold rates steady by saying, \u201cYou can\u2019t win \u2019em all.\u201d U.S. stocks reached record highs while the 10-year Treasury yield dropped below 2% after the Fed signaled its willingness to cut rates if needed. And James Bullard of the St. Louis Fed explained why he cast a dissenting vote on Wednesday, saying a rate cut would be \u2018insurance\u2019 against rising economic risks."
+    },
+    {
+        "neg": 0.225,
+        "neu": 0.667,
+        "pos": 0.108,
+        "compound": -0.7351,
+        "headline": "Ex-President Mohammed Morsi\u2019s supporters in Egypt and beyond hope his death becomes a turning point that spurs the movement to reorganize, but the now-outlawed group faces an existential crisis."
+    },
+    {
+        "neg": 0.036,
+        "neu": 0.853,
+        "pos": 0.11,
+        "compound": 0.7096,
+        "headline": "Good day. President Trump kept up his criticism of Jerome Powell, saying the Federal Reserve chairman isn\u2019t doing a good job and that the Fed should have European Central Bank President Mario Draghi as leader instead. The Bank of Japan\u2019s fixing of 10-year Japanese government bond yields around zero is squeezing the country\u2019s banks. And Facebook\u2019s Libra digital currency could give the U.S. dollar and banks some welcome competition, WSJ\u2019s Greg Ip writes."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "A startup that facilitates connections between apps for smoother mobile shopping, Button, has raised $30 million in funding."
+    },
+    {
+        "neg": 0.333,
+        "neu": 0.667,
+        "pos": 0.0,
+        "compound": -0.6124,
+        "headline": "Philadelphia Takes Officers Off Street Over Racist Social-Media Posts"
+    },
+    {
+        "neg": 0.268,
+        "neu": 0.732,
+        "pos": 0.0,
+        "compound": -0.5106,
+        "headline": "Skydiving, Mountain Climbing and Other Ways Execs Terrify Their Shareholders"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "VC Daily: Venture\u2019s Facebook Crypto Bet; Slack\u2019s VCs Expect Big Returns"
+    },
+    {
+        "neg": 0.085,
+        "neu": 0.819,
+        "pos": 0.096,
+        "compound": 0.296,
+        "headline": "Good day. Investors, companies and central banks are adjusting to the sudden drop in bond yields since this spring, amid sentiment that the global economy just can\u2019t break out of a decade of tepid expansion and generate significant inflation. Federal Reserve Vice Chairman Richard Clarida said that while the U.S. economic outlook remains positive, the central bank is prepared to cut rates if needed. The largest U.S. banks passed the first round of the Fed\u2019s stress tests. And the deputy governor of India\u2019s central bank resigned, six months after the departure of the bank\u2019s previous governor."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Bitcoin Surges Toward $14,000"
+    },
+    {
+        "neg": 0.152,
+        "neu": 0.848,
+        "pos": 0.0,
+        "compound": -0.7906,
+        "headline": "The Philadelphia Police Department put 72 officers on desk duty and a St. Louis prosecutor barred 22 officers from testifying in court, following revelations that law-enforcement officers in those and other U.S. cities posted racist or otherwise offensive comments on social media."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Political-News Sites Forge Ad Group to Compete With Facebook and Google"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.812,
+        "pos": 0.188,
+        "compound": 0.7964,
+        "headline": "The companies said the effort, called the Global Alliance for Responsible Media and announced during the ad industry\u2019s annual Cannes Lions festival, will develop specific steps to protect both people and brands from what marketers call \u201cunsafe\u201d content"
+    },
+    {
+        "neg": 0.334,
+        "neu": 0.666,
+        "pos": 0.0,
+        "compound": -0.9196,
+        "headline": "European lawmakers voted to end Russia\u2019s suspension from the Continent\u2019s main human-rights organization, provoking dismay in Ukraine, where Russia is pursuing a covert war that has left more than 13,000 dead."
+    },
+    {
+        "neg": 0.073,
+        "neu": 0.728,
+        "pos": 0.199,
+        "compound": 0.5859,
+        "headline": "There was plenty of handwringing among attendees at the Cannes Lions ad festival who worried aloud and often about brand safety and data privacy online."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.898,
+        "pos": 0.102,
+        "compound": 0.3612,
+        "headline": "The price of bitcoin rose above $9,000 to a 13-month high, extending a rebound that has made cryptocurrencies far outperform traditional asset classes this year."
+    },
+    {
+        "neg": 0.326,
+        "neu": 0.674,
+        "pos": 0.0,
+        "compound": -0.743,
+        "headline": "VC Daily: VC\u2019s Diversity Problem; Regulators Race to Get Ahead of Mobility Startups; Vape Ban"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.789,
+        "pos": 0.211,
+        "compound": 0.34,
+        "headline": "VC Daily: Security Robots; New Consumer Fund; Oyo Goes Global"
+    },
+    {
+        "neg": 0.326,
+        "neu": 0.674,
+        "pos": 0.0,
+        "compound": -0.4404,
+        "headline": "Stock Market\u2019s Record Isn\u2019t a Reason to Worry"
+    },
+    {
+        "neg": 0.051,
+        "neu": 0.693,
+        "pos": 0.255,
+        "compound": 0.7968,
+        "headline": "Americans have little faith the U.S. political system can address long-term challenges and are skeptical the nation remains committed to foundational tenets such as the free market, majority rule and tolerance, a Wall Street Journal/NBC News poll shows."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.723,
+        "pos": 0.277,
+        "compound": 0.3182,
+        "headline": "Fed, Congress Promise Scrutiny of Facebook Cryptocurrency"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.727,
+        "pos": 0.273,
+        "compound": 0.4588,
+        "headline": "Facebook\u2019s Libra Could Give Dollar, Banks Some Welcome Competition"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.877,
+        "pos": 0.123,
+        "compound": 0.5994,
+        "headline": "Good day. SoftBank Group Corp.\u2019s Vision Fund was supposed to push IPO timelines much further out for its portfolio companies. That is because the fund can tolerate longer hold periods and has the capacity to keep reinvesting."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.746,
+        "pos": 0.254,
+        "compound": 0.8176,
+        "headline": "News sites from across the political spectrum hope the Digital News Alliance will help them compete better with Facebook and Google as the 2020 election cycle heats up."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "The world\u2019s No.1 cryptocurrency, bitcoin, rose to its highest level in about 17 months Wednesday, extending its rally to nearly 60% in June so far."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Crypto Plan Borrows From China"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "The latest Market Talks covering the Auto and Transport sector. Published exclusively on Dow Jones Newswires throughout the day."
+    },
+    {
+        "neg": 0.057,
+        "neu": 0.943,
+        "pos": 0.0,
+        "compound": -0.1027,
+        "headline": "The S&P 500\u2019s communication-services sector\u2014home to Facebook, Disney and AT&T\u2014posted a median CEO pay of $22.6 million in 2018, higher than any other index sector."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.741,
+        "pos": 0.259,
+        "compound": 0.5423,
+        "headline": "Trump Middle East Peace Plan Calls for $50 Billion in Investment"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.816,
+        "pos": 0.184,
+        "compound": 0.7845,
+        "headline": "A bunch of big companies have agreed to pony up $10 million each to take part, and it is easy to see why: On some reasonable-sounding assumptions about its takeup, it could be insanely profitable in real money, too."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.714,
+        "pos": 0.286,
+        "compound": 0.4215,
+        "headline": "Bitcoin Fans Spy Opportunity in Facebook Libra Launch"
+    },
+    {
+        "neg": 0.067,
+        "neu": 0.743,
+        "pos": 0.191,
+        "compound": 0.6124,
+        "headline": "A shared passion for gaming, coupled with the ability to communicate without having to follow in-person social cues, helped bring Chris Lopes and Caleb Stephens out of isolation and become less afraid of meeting people."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Facebook\u2019s Libra Is a License to Print Money"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.886,
+        "pos": 0.114,
+        "compound": 0.4728,
+        "headline": "The Chinese precedents suggest the social-media giant needs to focus less on crypto engineering and more on improving the use case for its new currency."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Blasts Probed in Brazil Dam Burst"
+    },
+    {
+        "neg": 0.213,
+        "neu": 0.787,
+        "pos": 0.0,
+        "compound": -0.2263,
+        "headline": "Hong Kong Protesters Gather Outside Government\u2019s Central Offices"
+    },
+    {
+        "neg": 0.05,
+        "neu": 0.866,
+        "pos": 0.084,
+        "compound": 0.128,
+        "headline": "Some of the venture capitalists backing Facebook\u2019s new cryptocurrency project are among the biggest critics of Big Tech. They are betting that Facebook\u2019s influence over Libra would decrease over time and that the technology would unlock new opportunities for startup businesses."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Should the Government Regulate Social Media?"
+    },
+    {
+        "neg": 0.347,
+        "neu": 0.396,
+        "pos": 0.257,
+        "compound": -0.2263,
+        "headline": "Hawley\u2019s Bad Idea to Protect Speech"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.846,
+        "pos": 0.154,
+        "compound": 0.25,
+        "headline": "Facebook Says Libra Can Change the World. It Needs to Convince Users."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.961,
+        "pos": 0.039,
+        "compound": 0.0762,
+        "headline": "Facebook plans to spend big to revamp its image with users. But while the social media giant has made its fortune selling other companies\u2019 ads, its own brand investments may not pay off."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.846,
+        "pos": 0.154,
+        "compound": 0.4588,
+        "headline": "The 13-year-old brain is a decade from being fully baked. Yet kids that age can create YouTube channels and swap Instagram photos\u2014no parental consent required."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Major U.S. stock indexes were mixed on Wednesday as investors waited for developments on a trade deal with China."
+    },
+    {
+        "neg": 0.237,
+        "neu": 0.691,
+        "pos": 0.071,
+        "compound": -0.802,
+        "headline": "Artificial intelligence, backed by armies of human reviewers, is reducing dangerous posts on social-media platforms, but executives told Congress that no amount of filters will be able to completely eliminate the spread of propaganda and misinformation."
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.958,
+        "pos": 0.042,
+        "compound": 0.128,
+        "headline": "Facebook\u2019s Libra project should be carefully vetted by regulators, Bank of England Gov. Mark Carney is expected to say Thursday, offering an early insight into how the U.K. central bank will approach the new cryptocurrency."
+    },
+    {
+        "neg": 0.076,
+        "neu": 0.924,
+        "pos": 0.0,
+        "compound": -0.2263,
+        "headline": "Hong Kong\u2019s government closed its central offices as several hundred demonstrators gathered outside the complex, renewing protests over the handling of an extradition proposal."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Trading Volume Soars on \u2018Quad Witching\u2019 Day"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "CBS Is Planning Offer for Sister Company Viacom"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Auto & Transport Roundup: Market Talk"
+    },
+    {
+        "neg": 0.253,
+        "neu": 0.619,
+        "pos": 0.129,
+        "compound": -0.34,
+        "headline": "Bond-Yield Plunge Confounds; Clarida Says Fed Stands Ready to Cut Rates; Banks Ace Stress Tests"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Investors Bet That Visa, Mastercard Can Stand Up to Libra"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "\u2018Digital Cash\u2019 Review: Bitcoin and Beyond"
+    },
+    {
+        "neg": 0.163,
+        "neu": 0.759,
+        "pos": 0.078,
+        "compound": -0.4201,
+        "headline": "The Trump administration\u2019s Middle East peace plan would marshal $50 billion in investments over 10 years for the Palestinian territories and some neighbors. The blueprint makes no mention of some of the most difficult issues of the conflict."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "Stocks to Watch: Facebook, Tyson, MoneyGram, Parsons, Mosaic, Corteva, EQT"
+    },
+    {
+        "neg": 0.128,
+        "neu": 0.872,
+        "pos": 0.0,
+        "compound": -0.296,
+        "headline": "Fed Hints at Future Rate Cuts; First FOMC Dissent Since 2017; BOJ Holds Steady; Norway Hikes"
+    },
+    {
+        "neg": 0.193,
+        "neu": 0.643,
+        "pos": 0.164,
+        "compound": -0.1027,
+        "headline": "Americans Aren\u2019t Sure U.S. System Can Fix Long-Term Problems, Poll Finds"
+    },
+    {
+        "neg": 0.0,
+        "neu": 0.791,
+        "pos": 0.209,
+        "compound": 0.4404,
+        "headline": "Good day. Venture investors remain predominantly white and male, a new survey found."
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "U.S. Stocks Fall Amid Fed Comments; Tech Slides"
+    },
+    {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0,
+        "headline": "House GOP Leader Kevin McCarthy Wants a Data-Privacy Law"
+    }
+]
