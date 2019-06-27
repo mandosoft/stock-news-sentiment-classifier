@@ -13,7 +13,8 @@ require(rvest)
 url <-  'https://www.wsj.com/search/term.html?KEYWORDS=facebook'
         
 webpage <- read_html(url)
-        homepage_data <- html_nodes(webpage, '.summary-container p , .headline-container .headline a')
+        homepage_data <- html_nodes(webpage, '.summary-container p , +
+        .headline-container .headline a')
                 data <- html_text(homepage_data)
 
 write.csv(data, "facebook.csv", row.names=F)      
