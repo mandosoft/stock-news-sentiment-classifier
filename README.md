@@ -44,7 +44,7 @@ with open('data.json', 'w') as outfile:
 
 The returned JSON Object with metrics:
 
-```json
+```txt
  {
     "neg": 0.0,
     "neu": 1.0,  <- sentiment ranking
