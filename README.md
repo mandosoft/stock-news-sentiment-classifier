@@ -1,4 +1,4 @@
-#  Bayesian Deep Learning Classification Swiss Vector Machine
+#  Naiive Swiss Bayesian Classifier  
 
 A Naiive Bayes Classifier tool for UBS hackers to find correlations between stock prices and news headlines
 
