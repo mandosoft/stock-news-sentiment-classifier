@@ -8,9 +8,14 @@ import numpy as np
 import nltk
 import json
 import statistics
-# %matplotlib inline
 
-# Description: stockCharts.py pulls historical stock data and includes functions for visualization
+# Description: With news headlines scraped using NewsAPI, stockCharts.py calculates 
+# a daily sentiment score (-1 to 1) using NLTK's VADER (Valence Aware Dictionary 
+# and sEntiment Reasoner) lexicon, which is a Classifier model based on Naive Bayes, 
+# and plots daily sentiment against stock prices pulled from Alpha Vantage.
+
+# Note: Naive Bayes is a probabilistic classifier with strong conditional independence 
+# assumption that is optimal for classifying classes with highly dependent features
 
 ts = TimeSeries(key='EVLE1IR0H06PISXC',output_format='pandas')
 cc = CryptoCurrencies(key='EVLE1IR0H06PISXC', output_format='pandas')
@@ -35,7 +40,6 @@ def plotDailyReturn(df, start_date, end_date, ticker):
     # set y-axis to %
     ax = plt.gca()
     ax.yaxis.set_major_formatter(mtick.PercentFormatter(5.0))
-    
 
     ax = plt.gca()
     ax2 = ax.twinx()
@@ -118,15 +122,14 @@ def jsonToDF(jsonName):
     with open(jsonName, 'r') as f:
         datastore = json.load(f)
 
+    # formats date string
     z = dict()
     for x in range(len(datastore['articles'])):
         date = datastore['articles'][x]['publishedAt'][5:8] + \
             datastore['articles'][x]['publishedAt'][8:10] + "-" + datastore['articles'][x]['publishedAt'][:4]
         z[datastore['articles'][x]['title']] = date
 
-    # sorted(timestamps, key=lambda d: map(int, d.split('-')))
-
-    # calculates score of headlines from csv
+    # calculates daily scores for headlines
     headlines = set()
     sia = SIA()
     results = []
@@ -140,17 +143,15 @@ def jsonToDF(jsonName):
         elif pol_score['compound'] != 0.0:
             dictDF[pol_score['date']].append(pol_score['compound'])
 
+    # calculates mean
     for k, v in dictDF.items():
         dictDF[k] = statistics.mean(v)
 
+    # dataframe as output
     df = pd.DataFrame(dictDF.items())
-
     df[0] = pd.to_datetime(df[0], format='%m-%d-%Y')
-    
     return df
 
-# e.g
-# stockPriceToCSV(getData("TSLA"),"tslaoutput.csv")
-plotPrice(getData("MSFT"), "05-30-2019", "06-26-2019", "MSFT", jsonToDF("Microsoft.json"))
-cryptoPrice(getCryptoData("BTC"), "05-30-2019", "06-26-2019", "BTC", jsonToDF("Bitcoin.json"))
-# plotDailyReturn(getData("FB"), "01-31-2019", "03-30-2019", "FB")
+# example calls (must have Microsoft.json / Bitcoin.json scraped using NewsAPI)
+# plotPrice(getData("MSFT"), "05-30-2019", "06-26-2019", "MSFT", jsonToDF("Microsoft.json"))
+# cryptoPrice(getCryptoData("BTC"), "05-30-2019", "06-26-2019", "BTC", jsonToDF("Bitcoin.json"))
